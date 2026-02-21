@@ -1,10 +1,11 @@
 import 'dart:ui';
-import 'package:sahand/interviewexam/humanbody.dart';
+import 'package:sahand/interviewexam/humanbody/humanbody.dart';
 
+//  BodyText class
 class BodyPartLabel {
   final String text;
   final LabelPosition position;
-
+  
   const BodyPartLabel({
     required this.text,
     required this.position,
