@@ -1,6 +1,7 @@
 
-import 'package:sahand/interviewexam/humanbody.dart';
+import 'package:sahand/interviewexam/humanbody/humanbody.dart';
 
+//partition class for positionedwidget
 class BodyPartClass {
 final BodyPartId id;
 final double? top;
