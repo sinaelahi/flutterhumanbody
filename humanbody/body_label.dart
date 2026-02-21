@@ -1,7 +1,7 @@
 import 'dart:ui';
 import 'package:sahand/interviewexam/humanbody/humanbody.dart';
 
-//Bodytext class
+//Bodytextclass
 class BodyPartLabel {
   final String text;
   final LabelPosition position;
